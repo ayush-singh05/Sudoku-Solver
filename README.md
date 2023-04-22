@@ -1,6 +1,11 @@
 # Sudoku-Solver
 This is a Sudoku Solver project built using Java and JavaSwing. The project allows users to input an unsolved Sudoku puzzle and the program will solve the puzzle for them.
-# Table of Contents
+# Installation
+* Clone the repository to your local machine using git clone https://github.com/ayush-singh05/sudoku-solver.git
+* Open the project in your preferred Java IDE.
+* Run the SudokuSolver.java file.
+# Technologies Used
+This project was built using the following technologies:
  * Java
  * JavaSwing
  * Net Beans IDE
