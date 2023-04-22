@@ -8,7 +8,7 @@ This is a Sudoku Solver project built using Java and JavaSwing. The project allo
  1. Input the Sudoku puzzle in the provided grid.
  2. We can check your next move using "Check Move" button.
  3. we can also see the solution by clicking "Solution" button.
- # How This Project Looks
+ # Project Overview
   Front UI
   
   ![Screenshot 2023-04-13 004718](https://user-images.githubusercontent.com/99062720/231562430-7ade1dcb-ecb2-4bae-986f-93411a93518f.png)
